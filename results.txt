@@ -1,3 +1,4 @@
+Check "Empty"
 Compressed messages size are 100.00% of original size
 Real ratio (including dictionary size) is = 100.00%
 
