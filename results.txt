@@ -1,0 +1,61 @@
+Compressed messages size are 100.00% of original size
+Real ratio (including dictionary size) is = 100.00%
+
+
+Check "One letter huffman"
+Compressed messages size are 72.78% of original size
+Real ratio (including dictionary size) is = 72.78%
+
+
+Check "LZW Compression"
+expected ratio is: 76028417/153116336 = 0.49654020587326486
+dictionary size is 327680
+Compressed messages size are 58.16% of original size
+Real ratio (including dictionary size) is = 58.37%
+
+
+Check "Words huffman (3)"
+total nodes = 59804
+total nodes after remove = 19830
+total nodes = 756870
+total nodes after remove = 277065
+total dict size is 4792892
+Compressed messages size are 34.42% of original size
+Real ratio (including dictionary size) is = 37.55%
+
+Statistics:
+compressed words: 44398467 / 147499077 = 0.3010
+compressed bytes: 6661699 / 5617259 = 1.1859
+words total size = 0.9633
+words final size = 0.8695
+
+Check "Words huffman, bytes huffman (4)"
+total nodes = 59804
+total nodes after remove = 16050
+total nodes = 756870
+total nodes after remove = 227692
+total dict size is 3912623
+Compressed messages size are 33.79% of original size
+Real ratio (including dictionary size) is = 36.34%
+
+Statistics:
+compressed words: 43915089 / 146130870 = 0.3005
+compressed bytes: 6174451 / 6985466 = 0.8839
+words total size = 0.9544
+words final size = 0.8767
+
+Check "Words huffman, bytes 2 huffman (6)"
+total nodes = 59804
+total nodes after remove = 12269
+total nodes = 756870
+total nodes after remove = 176051
+total dict size is 3261452
+words 2999308, bytes2huffman = 262144
+Compressed messages size are 33.37% of original size
+Real ratio (including dictionary size) is = 35.50%
+
+Statistics:
+compressed words: 43190156 / 144062184 = 0.2998
+compressed bytes: 6256603 / 9054152 = 0.6910
+words total size = 0.9409
+words final size = 0.8735
